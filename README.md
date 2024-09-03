@@ -54,7 +54,7 @@ Back end is implemented using [Node JS](https://nodejs.org/en/docs), [Express JS
 Clone the repository:
 
 ```
-git clone https://github.com/anijitsao/react-app-simple-chat-app.git
+git clone https://github.com/aakansha/react-app-simple-chat-app.git
 ```
 
 Navigate inside the directory:
@@ -87,7 +87,7 @@ npm run server
 
 | Username | Password  |
 | -------- | --------- |
-| anijit   | anijit123 |
+| aakansha   | aakanshat123 |
 | jeetm    | jeetm76   |
 
 _tested with latest version of <img src="screenshots/chrome.png" width="20px" title="Google Chrome">[Google Chrome](https://www.google.com/chrome/) and <img src="screenshots/firefox.png" width="25px" title="Firefox Developer edition">[Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/)_
